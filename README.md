@@ -11,3 +11,5 @@ Edfa3ly shopping cart is a way to submit an order, by adding product's URL which
 This scenario contains repeated steps to test the fucntionality of **Edfa3ly Shopping Cart**.
 
 So, I wrote an automated testcases which covers **Automated and Prohibted Product Links** using **Selenium Webdriver using Java Programming Language**.
+
+# Why Automated Tests.
