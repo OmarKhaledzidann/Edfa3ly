@@ -1,2 +1,2 @@
 # Overview
-*I wrote an automated testcases*
+I wrote an automated testcases
