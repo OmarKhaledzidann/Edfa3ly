@@ -24,5 +24,5 @@ Page Object Model.**POM**
 # Why Page Object Model?
 
 - To make script maintenance easy.
-- When changing some locators we don't need to go over the source code to adjust locators. Only go to the specified page object model which holds the required locator and edit inside it.
+- When changing some locators we don't need to go over the whole source code to adjust locators. Only go to the specified page object model which holds the required locator and edit inside it.
 
