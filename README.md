@@ -18,6 +18,11 @@ Automated tests can be written once and then run many times, for example every d
 
 Refactoring, optimising and parallelising code without automated tests can be done, but it is like climbing without a rope, only for the brave and skilled!
 
-# IDE Used.
+# Design Pattern used.
+Page Object Model.**POM**
 
-Eclipse.
+# Why Page Object Model?
+
+- To make script maintenance easy.
+- When changing some locators we don't need to go over the source code to adjust locators. Only go to the specified page object model which holds the required locator and edit inside it.
+
