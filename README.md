@@ -12,4 +12,8 @@ This scenario contains repeated steps to test the fucntionality of **Edfa3ly Sho
 
 So, I wrote an automated testcases which covers **Automated and Prohibted Product Links** using **Selenium Webdriver using Java Programming Language**.
 
-# Why Automated Tests.
+# Why Automated Tests?
+
+Automated tests can be written once and then run many times, for example every day, or, every time we change our code.
+
+Refactoring, optimising and parallelising code without automated tests can be done, but it is like climbing without a rope, only for the brave and skilled!
