@@ -36,4 +36,7 @@ Page Object Model.**POM**
 
 
 # Structure of the code
+**1. Page** package.
+- *PageBase Class*, This class contains all the main common functions we can use in our automation script *Click button, Scroll down, write in text box*.
 
+- *CartPage*, This class allocates all the elements of the Cart Page *URL TextBox, Error Message of Prohibited products, AddItem Button, Size Dropdown menu*. It extends the PageBase class to be able to use the functions.
