@@ -18,6 +18,14 @@ Automated tests can be written once and then run many times, for example every d
 
 Refactoring, optimising and parallelising code without automated tests can be done, but it is like climbing without a rope, only for the brave and skilled!
 
+# IDE and Tools used.
+
+- **Eclipse**.
+- **Maven** for configuring the project configuration and dependencies.
+- **Selenuim Web driver** to write the automation script and automate the browser.
+- **Chrome Driver** **version 85** it's chnagable based on chrome version, to connect and execute the code on Chrome.
+- **TestNg** to run the code.
+
 # Design Pattern used.
 Page Object Model.**POM**
 
