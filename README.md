@@ -46,3 +46,11 @@ Page Object Model.**POM**
 
 - *AutomatedProductTestCase Class*, This class contains the test case of **Adding Automated product links scenario**. It extends the *TestBase Class*.
 - *ProhibitedProductTestCase Class*, This class contains the test case of **Adding Prohibited product links scenario**. It extends the *TestBase Class*.
+
+# How To Run The Code.
+
+1. To run the scenario of *Adding Automated product links*, go to *AutomatedProductTestCase Class*
+  - Right Click and Run as **TestNg**, It will open the Chrome browser and start simulating the scenario.
+  
+2. To run the scenario of *Adding Prohibited product links* go to *ProhibitedProductTestCase Class*
+  - Right Click and Run as **TestNg**, It will open the Chrome browser and start simulating the scenario.
