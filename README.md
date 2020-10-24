@@ -23,7 +23,7 @@ Refactoring, optimising and parallelising code without automated tests can be do
 - **Eclipse**.
 - **Maven** for configuring the project configuration and dependencies.
 - **Selenuim Web driver** to write the automation script and automate the browser.
-- **Chrome Driver** **version 85** it's chnagable based on chrome version, to connect and execute the code on Chrome.
+- **Chrome Driver** **version 85** it's differs based on chrome version, to connect and execute the code on Chrome.
 - **TestNg** to run the code.
 
 # Design Pattern used.
