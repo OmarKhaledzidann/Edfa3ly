@@ -36,7 +36,13 @@ Page Object Model.**POM**
 
 
 # Structure of the code
-**1. Page** package.
+**1. Pages** package.
 - *PageBase Class*, This class contains all the main common functions we can use in our automation script *Click button, Scroll down, write in text box*.
 
 - *CartPage*, This class allocates all the elements of the Cart Page *URL TextBox, Error Message of Prohibited products, AddItem Button, Size Dropdown menu*. It extends the PageBase class to be able to use the functions.
+
+**2. tests** package. **This Package contains test cases of Automated and Prohibited Product links**
+- *TestBase Class*, This class contains the configuration of test *driver of chrome, starting driver and navigate to **Edfa3ly Shopping Cart website**, stop driver and quit the page, taking screenshots in failure case and put it in screenshots folder found in project hirerachy*.
+
+- *AutomatedProductTestCase Class*, This class contains the test case of **Adding Automated product links scenario**. It extends the *TestBase Class*.
+- *ProhibitedProductTestCase Class*, This class contains the test case of **Adding Prohibited product links scenario**. It extends the *TestBase Class*.
